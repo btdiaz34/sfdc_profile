@@ -1,1 +1,1 @@
-Database.executeBatch(new FMZ_BatchIntegrationConversion(),1);
+Database.executeBatch(new FMZ_BatchIntegrationConversion(),50);
